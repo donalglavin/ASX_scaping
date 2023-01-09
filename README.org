@@ -1,0 +1,12 @@
+* ASX Financials Scaping.
+:PROPERTIES:
+:ID:       a78c3fdd-6a00-4213-8f27-3fbf814e5a30
+:END:
+** Introduction.
+:PROPERTIES:
+:ID:       b5a9536a-f3d5-426c-9f1b-392ba2e339ba
+:END:
+This project aims to develope a system to acquire and store as much freely available information as possible (from reliability data sources) on ASX listed companies.
+
+The primary data sources are:
+1. ASX official website.
